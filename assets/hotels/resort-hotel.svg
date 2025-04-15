@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" fill="#e6fffa"/>
+  <path d="M30 80 L100 30 L170 80 L170 170 L30 170 Z" fill="#0d9488"/>
+  <rect x="60" y="100" width="30" height="70" fill="#ffffff"/>
+  <rect x="110" y="100" width="30" height="70" fill="#ffffff"/>
+  <path d="M20 80 L100 20 L180 80" fill="none" stroke="#0d9488" stroke-width="10"/>
+  <circle cx="100" cy="60" r="15" fill="#fcd34d"/>
+  <path d="M70 170 C70 140, 130 140, 130 170" fill="#0d9488"/>
+  <text x="100" y="190" font-family="Arial" font-size="12" text-anchor="middle" fill="#0d9488">Resort Otel</text>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" fill="#f0f9ff"/>
+  <rect x="30" y="60" width="140" height="100" fill="#1e40af"/>
+  <rect x="40" y="70" width="120" height="80" fill="#ffffff"/>
+  <rect x="50" y="80" width="100" height="60" fill="#bfdbfe"/>
+  <rect x="70" y="150" width="60" height="10" fill="#1e40af"/>
+  <rect x="85" y="140" width="30" height="20" fill="#ffffff"/>
+  <circle cx="60" cy="110" r="10" fill="#1e40af"/>
+  <circle cx="100" cy="110" r="10" fill="#1e40af"/>
+  <circle cx="140" cy="110" r="10" fill="#1e40af"/>
+  <text x="100" y="190" font-family="Arial" font-size="12" text-anchor="middle" fill="#1e40af">Kongre Oteli</text>
+</svg>

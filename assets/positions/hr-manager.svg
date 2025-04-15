@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" fill="#f5f3ff"/>
+  <circle cx="100" cy="70" r="30" fill="#7c3aed"/>
+  <path d="M100 100 L100 150" stroke="#7c3aed" stroke-width="10"/>
+  <path d="M70 120 L130 120" stroke="#7c3aed" stroke-width="10"/>
+  <path d="M60 180 L80 150" stroke="#7c3aed" stroke-width="8"/>
+  <path d="M140 180 L120 150" stroke="#7c3aed" stroke-width="8"/>
+  <circle cx="70" cy="50" r="10" fill="white"/>
+  <circle cx="130" cy="50" r="10" fill="white"/>
+  <circle cx="85" cy="65" r="5" fill="white"/>
+  <circle cx="115" cy="65" r="5" fill="white"/>
+  <path d="M90 80 L110 80" stroke="white" stroke-width="3"/>
+  <text x="100" y="190" font-family="Arial" font-size="12" text-anchor="middle" fill="#7c3aed">İnsan Kaynakları Müdürü</text>
+</svg>
